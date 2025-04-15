@@ -1,0 +1,21 @@
+2025-04-15 21:32:45.710694 - User Registered: sudhanshu
+2025-04-15 21:33:02.896664 - User Registered: robin
+2025-04-15 21:33:10.150346 - User Registered: aditya
+2025-04-15 21:33:22.563262 - User Registered: pappu
+2025-04-15 21:33:27.190700 - User Registered: shankar
+2025-04-15 21:33:32.400819 - User Registered: sanjay
+2025-04-15 21:33:44.500079 - User Registered: sham
+2025-04-15 21:35:34.460062 - User Registered: sudhanshu
+2025-04-15 21:35:46.184067 - User Registered: aditya
+2025-04-15 21:35:50.927075 - User Registered: robin
+2025-04-15 21:35:54.486261 - User Registered: siddhart
+2025-04-15 21:35:59.023908 - User Registered: sumit
+2025-04-15 21:36:04.749931 - User Registered: harsh
+2025-04-15 21:40:42.284622 - User Registered: ram
+2025-04-15 21:40:47.038296 - User Registered: shayam
+2025-04-15 21:40:52.972005 - User Registered: king
+2025-04-15 21:41:12.471973 - User Registered: pubg
+2025-04-15 22:35:43.768598 - 
+--- Lottery Draw Complete ---
+2025-04-15 22:35:43.768598 - Participants: sudhanshu, aditya, robin, siddhart, sumit, harsh, ram, shayam, king, pubg
+2025-04-15 22:35:43.768598 - Winner: siddhart
